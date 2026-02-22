@@ -8,3 +8,7 @@ elif a<b:
     print("The first number is less than the second number.")
 else:
     print("The two numbers are equal.")
+    if c%2==0:
+        print("The sum of the two numbers is even.")
+    else:        
+        print("The sum of the two numbers is odd.")
